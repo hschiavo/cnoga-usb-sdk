@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CNoga.Singular.SDK.DemoConsole", "CNoga.Singular.SDK.DemoConsole\CNoga.Singular.SDK.DemoConsole.csproj", "{3CC11764-F650-475A-9C0D-DC6993FCB45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC11764-F650-475A-9C0D-DC6993FCB45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC11764-F650-475A-9C0D-DC6993FCB45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC11764-F650-475A-9C0D-DC6993FCB45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC11764-F650-475A-9C0D-DC6993FCB45F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88E9D4C2-BCE0-4C19-A15F-722EAAE25B63}
+	EndGlobalSection
+EndGlobal
